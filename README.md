@@ -2,7 +2,7 @@ Hospital Management System (MySQL)
 
 This project is a simple Hospital Management System developed using MySQL. It is used to store and manage hospital data such as patient details, doctor information, appointments, and billing records.
 
-The system is based on a relational database structure with tables like patients, doctors, appointments, and billing. It helps in organizing data efficiently and performing operations like adding new records, updating details, and retrieving information using SQL queries.]
+The system is based on a relational database structure with tables like patients, doctors. It helps in organizing data efficiently and performing operations like adding new records, updating details, and retrieving information using SQL queries.
 
 This database contains 7 tables:
 
